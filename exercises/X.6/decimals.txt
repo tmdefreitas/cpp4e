@@ -1,0 +1,4 @@
+This is a sentence with a decimal in it (12.3).
+Here is a sentence without. Now a couple more in the next line:
+25 + 35.6 = 60.6
+More text. End.
